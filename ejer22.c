@@ -8,6 +8,7 @@ int main(){
             if((numero%2)!=0){
                 
                 printf("%d\n", numero-1);
+                
             }
         }
         numero=numero+7;
