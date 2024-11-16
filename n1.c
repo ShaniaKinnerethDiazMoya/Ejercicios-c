@@ -2,6 +2,7 @@
 
 int main(){
     float a,b,c,d,e,f, resultado=0;
+    
 
     puts("Introduce los valores para la siguiente operacion");
     puts("  a+b  ");
