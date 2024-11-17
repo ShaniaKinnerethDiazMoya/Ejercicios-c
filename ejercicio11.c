@@ -7,5 +7,6 @@ int main(){
         printf("%d\n", n2);
         numero=numero+3;
     }
+    
     return 0;
 }
