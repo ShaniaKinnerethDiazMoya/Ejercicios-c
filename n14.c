@@ -21,5 +21,6 @@ while( vec[i] < 10)
 var = var + vec[i];
 ++i;
 }
+  
 printf ( “ %d”, var);
 }
