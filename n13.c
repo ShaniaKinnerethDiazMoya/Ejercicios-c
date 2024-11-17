@@ -8,4 +8,4 @@ if(vec[i]>0)
 var = var * vec[i];
 printf ( “ %d”, var);
 }
-1
+
