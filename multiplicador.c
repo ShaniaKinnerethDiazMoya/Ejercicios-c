@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 int main( ){
     int multiplicador; /*se define multiplicador como un entero */
