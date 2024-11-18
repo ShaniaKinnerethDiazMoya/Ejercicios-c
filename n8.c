@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()q
-q
+int main()
 {
    int dividendo, divisor, cociente, resto;
 
