@@ -2,6 +2,7 @@
 
 int main()
 {
+   
    float altura, base;
 
    printf( "Introduzca base: " );
