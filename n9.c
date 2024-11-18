@@ -2,6 +2,7 @@
 
 int main()
 {
+   
    int dividendo, divisor;
 
    printf( "Introduzca dividendo (entero): " );
