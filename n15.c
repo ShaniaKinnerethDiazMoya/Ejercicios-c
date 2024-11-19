@@ -1,6 +1,7 @@
 #include<stdio.h>
 mainO
 {
+  
 int arr[10] = {23, 5, 98, 65, 3, 55, 73, 9, 21, 85}, *p;
 Laboratorio de Computación 1
 11
