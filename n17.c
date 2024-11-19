@@ -20,4 +20,5 @@
     printf ( " %d %d \ t %.3f \ t %s \ n " ,x ,y ,z , cadena ) ;
 
     return 0;
+  
 }
