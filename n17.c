@@ -2,6 +2,7 @@
 # define TAM_MAXIMO 80
 
  int main ( void ){
+  
     char cadena [ TAM_MAXIMO ];
     int x , y ;
     float z ;
