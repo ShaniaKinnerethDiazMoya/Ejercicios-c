@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(){
     int numero = 1;
     while(numero<=100){
@@ -9,4 +8,5 @@ int main(){
         numero++;
     }
     return 0;
+    
 }
