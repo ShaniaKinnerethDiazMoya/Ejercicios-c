@@ -2,7 +2,6 @@
 
 int main(){
     double diam = 10;
-    
     double rad = diam/2;
     
     double pi = 3.1416;
