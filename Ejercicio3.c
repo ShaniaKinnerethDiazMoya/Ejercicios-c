@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int main(){
+    
     double diam = 10;
     
     double rad = diam/2;
