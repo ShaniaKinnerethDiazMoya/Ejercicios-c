@@ -14,5 +14,6 @@ int main (){
     printf("\n");
     printf("El resultado es: %d", res);
     printf("\n");
+    
     return 0;
 }
