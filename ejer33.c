@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int numero = 1;
-    
+
     while(numero<=100){
         
         if(numero%7!=0){
